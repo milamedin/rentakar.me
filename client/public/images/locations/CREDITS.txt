@@ -1,0 +1,110 @@
+Image attribution — sources from Wikimedia Commons.
+All photos are licensed under CC BY-SA or compatible free licences.
+Originals available at the Wikipedia article URL listed for each city.
+
+kotor.jpg
+  Title:  Crkva Gospa od Zdravlja, Kotor Bay (2009)
+  Source: https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg
+
+bar.jpg
+  Title:  Stari Bar, Montenegro (2014)
+  Source: https://commons.wikimedia.org/wiki/File:Stari_Bar,_Montenegro,_2014-04-18,_DD_03.JPG
+
+herceg-novi.jpg
+  Title:  Herceg Novi Sunset
+  Source: https://commons.wikimedia.org/wiki/File:Herceg_Novi_Sunset.JPG
+
+ulcinj.jpg
+  Title:  Ulcinj, Montenegro (Sept. 2010)
+  Source: https://commons.wikimedia.org/wiki/File:Ulcinj,_Montenegro_-_Sept._2010.jpg
+
+niksic.jpg
+  Title:  Nikšić
+  Source: https://commons.wikimedia.org/wiki/File:Nik%C5%A1i%C4%87.jpg
+
+petrovac.jpg
+  Title:  Petrovac panorama
+  Source: https://commons.wikimedia.org/wiki/File:Petrovac_panorama.jpg
+
+sveti-stefan.jpg
+  Title:  Sveti Stefan (06)
+  Source: https://commons.wikimedia.org/wiki/File:Sveti_Stefan_(06).jpg
+
+becici.jpg
+  Title:  Montenegro, Bečići beach
+  Source: https://commons.wikimedia.org/wiki/File:Montenegro_Becici_beach.jpg
+
+pljevlja.jpg
+  Title:  Husein-pasha's Mosque, Pljevlja
+  Source: https://commons.wikimedia.org/wiki/File:Husein-pa%C5%A1a%27s_Mosque,_Pljevlja.jpg
+
+berane.jpg
+  Title:  Opština Berane (town hall)
+  Source: https://commons.wikimedia.org/wiki/File:Opstinaberane.jpg
+
+bijelo-polje.jpg
+  Title:  Panorama Bijelog Polja
+  Source: https://commons.wikimedia.org/wiki/File:Panorama_Bijelog_Polja.jpg
+
+zabljak.jpg
+  Title:  Žabljak, Montenegro - main square
+  Source: https://commons.wikimedia.org/wiki/File:%C5%BDabljak,_Montenegro_-_main_square.jpg
+
+cetinje.jpg
+  Title:  Cetinjski manastir (Cetinje Monastery)
+  Source: https://commons.wikimedia.org/wiki/File:Monastero_di_cetinje,_01.JPG
+
+durmitor.jpg
+  Title:  Durmitor National Park
+  Source: https://commons.wikimedia.org/wiki/File:Durmitor.jpg
+
+tara.jpg
+  Title:  Tara River Canyon
+  Source: https://commons.wikimedia.org/wiki/File:Tara_River_Canyon.jpg
+
+skadar.jpg
+  Title:  Skadarsko jezero (Lake Skadar)
+  Source: https://commons.wikimedia.org/wiki/File:Skadarsko_Jezero.jpg
+
+perast.jpg
+  Title:  Perast
+  Source: https://commons.wikimedia.org/wiki/File:Perast_100.jpg
+
+perast-hero.jpg
+  Title:  Perast (high-resolution hero crop)
+  Source: https://commons.wikimedia.org/wiki/File:Perast_100.jpg
+
+albania.jpg
+  Title:  Rozafa Castle, Shkodër (Albania)
+  Source: https://commons.wikimedia.org/wiki/File:Rozafa_Castle_in_July_2013_(5).JPG
+
+----------------------------------------------------------------------
+Service category photos (in /images/services/):
+
+services/jet-ski.jpg
+  Title:  Couple of teenagers riding a jetski on the Mekong, Laos
+  Source: https://commons.wikimedia.org/wiki/File:Couple_of_teenagers_riding_a_jetski_splashing_on_the_Mekong_in_Laos.jpg
+
+services/bike.jpg
+  Title:  Flying Pigeon bicycle
+  Source: https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg
+
+services/scooter.jpg
+  Title:  Vespa scooters in Perth
+  Source: https://commons.wikimedia.org/wiki/File:PerthVespa.jpg
+
+services/kayak.jpg
+  Title:  Kayak training, Hanna Lake, Pakistan
+  Source: https://commons.wikimedia.org/wiki/File:Mohammad_Abubakar_Durrani_with_Kayak_paddlers_Pakistan_in_snow_training_2012_(Hanna_Lake).jpg
+
+services/quad.jpg
+  Title:  Four-wheeler (ATV)
+  Source: https://commons.wikimedia.org/wiki/File:Four_wheeler.jpg
+
+services/long-term.jpg
+  Title:  2023 Toyota Corolla Hybrid hatchback
+  Source: https://commons.wikimedia.org/wiki/File:2023_Toyota_Corolla_Hybrid_(E210)_hatchback_IMG_9884.jpg
+
+----------------------------------------------------------------------
+A "Photo credits" link is shown in the site footer. It points to this
+file directly (served as a static asset from /images/locations/).

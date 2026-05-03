@@ -1,0 +1,4 @@
+# Cloudflare Pages SPA fallback.
+# Static city HTML pages (e.g. /rent-a-car/kotor/index.html) are served
+# as files first; this catch-all only fires when no file matches.
+/*    /index.html   200
