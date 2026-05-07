@@ -37,7 +37,12 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+    <!-- Preload the LCP image so it starts downloading immediately, before React boots. -->
+    <link rel="preload" as="image" href="/images/locations/perast-hero-1200.jpg" imagesrcset="/images/locations/perast-hero-800.jpg 800w, /images/locations/perast-hero-1200.jpg 1200w, /images/locations/perast-hero-2000.jpg 2000w" imagesizes="100vw" fetchpriority="high" />
+    <!-- Async font load: media="print" + onload swap removes the render-blocking CSS request.
+         <noscript> fallback ensures fonts still load if JS is disabled. -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" /></noscript>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
